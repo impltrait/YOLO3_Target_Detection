@@ -2,6 +2,9 @@
 
 有问题！请你们及时反馈
 
+## 环境
+tensorflow==1.12 python==3.68
+
 ## 快随启动
 
 - [下载YOLOv3权重](https://pjreddie.com/media/files/yolov3.weights)
